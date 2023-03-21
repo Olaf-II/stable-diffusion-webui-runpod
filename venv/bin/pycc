@@ -1,0 +1,3 @@
+#!/workspace/stable-diffusion-webui/venv/bin/python
+from numba.pycc import main
+main()
